@@ -1,7 +1,7 @@
 """Main module."""
 def print_hello():
-    print('Hello, World!')
+    return 'Hello, World!'
 
 
 def print_name(name):
-    print(f'Hello, {name}')
+    return (f'Hello, {name}')
